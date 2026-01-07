@@ -50,7 +50,6 @@ Make sure `javac`/`java` are in your PATH and using JDK 8 or newer.
 ## Notes
 
 - This repository is a teaching exercise; tests and packaging are intentionally minimal.
-- Replace `./UML.png` with the instructor-supplied UML diagram if you have a higher-fidelity image.
 
 ## License & Author
 
