@@ -47,9 +47,7 @@ mkdir -p out && javac -d out src/*.java && java -cp out AirportDemo
 
 Make sure `javac`/`java` are in your PATH and using JDK 8 or newer.
 
-## Notes
-
-- This repository is a teaching exercise; tests and packaging are intentionally minimal.
+**Note:** This repository is a teaching exercise; tests and packaging are intentionally minimal.
 
 ## License & Author
 
