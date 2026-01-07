@@ -1,5 +1,5 @@
 public class AirportDemo {
-    static void main() {
+    public static void main(String[] args) {
         Flight flight1 = new Flight("PK12", "Islamabad", "Skardu");
         Flight flight2 = new Flight("PK14", "Gilgit", "Karachi");
         Flight flight3 = new InternationalFlight("PK17", "Lahore", "London, UK", "UK Visa Required");
