@@ -2,7 +2,9 @@
 
 Educational Java OOP lab demonstrating aggregation, composition, and inheritance by modeling an airline system: flights, planes, seats, and a demo runner.
 
-![UML](./UML.png)
+<div align="center">
+    <img src="./UML.png" alt="UML" width="70%">
+</div>
 
 ## Project Overview
 
