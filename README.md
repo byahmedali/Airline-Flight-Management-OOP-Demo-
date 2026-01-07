@@ -49,6 +49,11 @@ Make sure `javac`/`java` are in your PATH and using JDK 8 or newer.
 
 **Note:** This repository is a teaching exercise; tests and packaging are intentionally minimal.
 
+Sample CLI output:
+<div>
+    <img src="./cli-output.png" alt="UML" width="85%">
+</div>
+
 ## License & Author
 
 Provided as course material. Adapt and reuse for learning purposes.
